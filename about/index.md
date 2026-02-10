@@ -1,5 +1,5 @@
 # Welcome!
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://mpetschelmedia.github.io)
+[![Follow @mpetschelmedia on GitHub](https://img.shields.io/github/followers/mpetschelmedia?label=Follow&style=social)](https://github.com/mpetschelmedia)
 ![Last Commit](https://img.shields.io/github/last-commit/mpetschelmedia/mpetschelmedia.github.io)
 ![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/)
