@@ -9,6 +9,7 @@ Here you’ll find personal projects and **band class resources** for students.
 - [Band Resources](band/concert-band/)
 - [Jazz Band Resources](band/jazz-band/)
 - [Percussion Ensemble Resources](band/percussion-ensemble/)
+- [Information](band/info/)
 
 ## Contact
 1761872915@student.cravenk12.org
