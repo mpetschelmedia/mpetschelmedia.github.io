@@ -3,20 +3,20 @@
 
 # Winter Concert
 ## Unknown
-[View](../../missing.md)
+[View](../info/missing.md)
 ## Unknown
-[View](../../missing.md)
+[View](../info/missing.md)
 ## Unknown
-[View](../../missing.md)
+[View](../info/missing.md)
 ## Unknown
-[View](../../missing.md)
+[View](../info/missing.md)
 
 # Spring Concert
 ## Unknown
-[View](../../missing.md)
+[View](../info/missing.md)
 ## Unknown
-[View](../../missing.md)
+[View](../info/missing.md)
 ## Unknown
-[View](../../missing.md)
+[View](../info/missing.md)
 ## Unknown
-[View](../../missing.md)
+[View](../info/missing.md)
