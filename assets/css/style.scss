@@ -1,0 +1,19 @@
+.note, .important, .warning {
+  padding: 15px;
+  margin: 20px 0;
+  border-left: 6px solid;
+  background: #2d2d2d;
+  border-radius: 4px;
+}
+
+.note {
+  border-color: #3b8ddb;
+}
+
+.important {
+  border-color: #f39c12;
+}
+
+.warning {
+  border-color: #e74c3c;
+}
