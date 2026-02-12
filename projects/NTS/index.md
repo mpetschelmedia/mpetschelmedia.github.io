@@ -1,4 +1,4 @@
-#NTS
+# NTS
 The Worlds Most Simple Note To Self App
 
 ## Setup
